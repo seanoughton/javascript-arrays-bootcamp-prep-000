@@ -1,1 +1,1 @@
-var ch
+var chocolateBars = []
