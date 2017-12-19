@@ -37,6 +37,6 @@ function removeElementFromBeginningOfArray(array){
 }
 
 
-function destructivelyRemoveElementFromEndOfArray(){
+function destructivelyRemoveElementFromEndOfArray(array){
   
 }
